@@ -1,0 +1,20 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --foreground-rgb: #353535;
+  --background-rgb: #fafafa;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --foreground-rgb: #353535;
+    --background-rgb: #fafafa;
+  }
+}
+
+body {
+  color: var(--foreground-rgb);
+  background: var(--background-rgb);
+}

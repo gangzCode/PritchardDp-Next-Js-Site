@@ -1,0 +1,1179 @@
+{
+  "sewn_products": {
+    "title": "Sewn Products",
+    "products": {
+      "superwhite_plotter_paper": {
+        "title": "Super White Plotter Paper",
+        "card_desc": "We carry a full line of the highest quality plotter papers for computerized marking and grading systems. Our plotter papers can be used on any CAD system. All grades are made to the strictest standards, ensuring a consistent, quality product. Our stock inventory offers many different grades and colors - and custom sizes, grades, and yardages are available upon request.",
+        "path": "/products/sewn_products/superwhite_plotter_paper",
+        "profile": {
+          "main_desc": [
+            "We carry a full line of the highest quality plotter papers for computerized marking and grading systems. Our plotter papers can be used on any CAD system. All grades are made to the strictest standards, ensuring a consistent, quality product. Our stock inventory offers many different grades and colors - and custom sizes, grades, and yardages are available upon request."
+          ],
+          "sub_texts": [
+            {
+              "title": "Bright White",
+              "content": "This sheet allows for clear marker lines and identification print enabling precise ease of information in your cutting and sewing rooms."
+            },
+            {
+              "title": "Lay Flat",
+              "content": "With its straight and flat properties your fabrics will lay flat allowing for pure and clean cuts every time while providing easy transition from table to cutter."
+            },
+            {
+              "title": "Cradle Pack",
+              "content": "Incredible stability in the shipping process. Your rolls will arrive protected, clean, even and most importantly undamaged every time. An environmental advantage that eliminates the use of unnecessary cartons. Our roll guards are made entirely from recycled materials."
+            }
+          ],
+          "features": [
+            {
+              "title": "BASIS WEIGHT",
+              "content": "35# Bond",
+              "icon_key": "weight"
+            },
+            {
+              "title": "SIZES",
+              "content": "12\", 18\", 24\", 31 1/2\", 33\", 36\", 48\", 60\", 63\", 67\", 72\", 82\", 84\", 90\", 92\", 100\", 120\", 126\"",
+              "icon_key": "size"
+            },
+            {
+              "title": "YARDAGE",
+              "content": "50-600 yds",
+              "icon_key": "yardage"
+            },
+            {
+              "title": "COLOUR",
+              "content": "White",
+              "icon_key": "color"
+            }
+          ]
+        }
+      },
+      "pastel": {
+        "title": "Pastel",
+        "card_desc": "We carry a full line of the highest quality plotter papers for computerized marking and grading systems. Our plotter papers can be used on any CAD system. All grades are made to the strictest standards, ensuring a consistent, quality product. Our stock inventory offers many different grades and colors - and custom sizes, grades, and yardages are available upon request.",
+        "path": "/products/sewn_products/pastel",
+        "profile": {
+          "main_desc": [
+            "We carry a full line of the highest quality plotter papers for computerized marking and grading systems. Our plotter papers can be used on any CAD system. All grades are made to the strictest standards, ensuring a consistent, quality product. Our stock inventory offers many different grades and colors - and custom sizes, grades, and yardages are available upon request."
+          ],
+          "features": [
+            {
+              "title": "BASIS WEIGHT",
+              "content": "25# - 27#",
+              "icon_key": "weight"
+            },
+            {
+              "title": "SIZES",
+              "content": "12\", 18\", 24\", 31 1/2\", 33\", 36\", 48\", 60\", 63\", 67\", 72\", 82\", 84\", 90\", 92\", 100\", 104\"",
+              "icon_key": "size"
+            },
+            {
+              "title": "YARDAGE",
+              "content": "50-600 yds",
+              "icon_key": "yardage"
+            },
+            {
+              "title": "COLOUR",
+              "content": "Yellow, Pink, Green, Blue, White",
+              "icon_key": "color"
+            }
+          ]
+        }
+      },
+      "kraft": {
+        "title": "Plain Kraft Paper",
+        "card_desc": "While our Waxed Kraft Paper is a very versatile product—perfectly suitable for wrapping, fill materials, protective covering, or even as a pattern paper—it is especially useful as a cutting underlay. Our Waxed Kraft Paper is an economic and biodegradable material, and can be composed of either virgin or recycled paper content.",
+        "path": "/products/sewn_products/kraft",
+        "profile": {
+          "main_desc": [
+            "While our Waxed Kraft Paper is a very versatile product—perfectly suitable for wrapping, fill materials, protective covering, or even as a pattern paper—it is especially useful as a cutting underlay. Our Waxed Kraft Paper is an economic and biodegradable material, and can be composed of either virgin or recycled paper content.",
+            "Pritchard Paper's Waxed Kraft Paper is simply the best on the market. Our lay flat Waxed Kraft Paper provides the highest performance on any cutting table, and all of our Waxed Kraft Papers are converted using mostly virgin kraft material that will remain straight, strong, and crisp. Lesser-quality recycled kraft papers are often soft, snap easily, and leave fibre residues on cut fabrics—not so with Pritchard Waxed Kraft paper products. Thanks to the superior quality of our Waxed Kraft Papers, your cutting operations will be efficient, productive, and will ensure a smile on your cutter's face!"
+          ],
+          "features": [
+            {
+              "title": "FINISH",
+              "content": "Natural Kraft",
+              "icon_key": "finish"
+            },
+            {
+              "title": "STANDARD PAPER WEIGHTS",
+              "content": "12#, 15#, 25#, 30#, 35#, 40#, 50#, 60#, 70#, 80#, 126#",
+              "icon_key": "weight"
+            },
+            {
+              "title": "STANDARD WIDTHS",
+              "content": "12\", 18\", 24\", 36\", 45\", 48\", 60\", 63\", 66\", 72\", 120\"",
+              "icon_key": "width"
+            },
+            {
+              "title": "ATTRIBUTES",
+              "content": [
+                "Available in virgin or recycled paper",
+                "Can be used as pattern paper in cutting rooms or to protect materials from damage on the cutting table",
+                "Heavy weight, strong, smooth paper, allowing for accurate cuts",
+                "Economical and recyclable",
+                "Lower cost option to other pattern papers",
+                "Many other uses, including void fill or wrapping",
+                "Other and custom weights, widths, and lengths available upon request"
+              ],
+              "icon_key": "attribute"
+            }
+          ]
+        }
+      },
+      "perforated_kraft": {
+        "title": "Perforated Kraft Paper",
+        "card_desc": "Our perforated kraft papers can be used on any automated cutting machine across the globe. We stock the highest quality papers in many sizes and patterns, which are available in both virgin and recycled grade papers. Our papers are strong and well-made, allowing for optimal performance and air flow, and ensuring your cutting room operations are efficient. The below information discusses our stock perforated paper, but custom sizes are available - call for details!",
+        "path": "/products/sewn_products/perforated_kraft",
+        "profile": {
+          "main_desc": [
+            "Our perforated kraft papers can be used on any automated cutting machine across the globe. We stock the highest quality papers in many sizes and patterns, which are available in both virgin and recycled grade papers. Our papers are strong and well-made, allowing for optimal performance and air flow, and ensuring your cutting room operations are efficient. The below information discusses our stock perforated paper, but custom sizes are available - call for details!",
+            "Pritchard Paper's double-sided Perforated Kraft Papers are converted from the highest quality virgin 44# basis-weight paper. Our 2 Way Perf is primarily used for cutting fabrics that have the potential to fuse while being cut. As your high-speed cutting knives slice through fabrics such as nylon, polyester, or water-resistant materials, the 2 Way Perf provides a lubricant to your knives, which in turn help reduce and eliminate the build-up of heat in your cutter which would otherwise cause these fabrics to melt or fuse together.",
+            "Our Perf-Tough Kraft Paper is ideal for very high pile cutting. Perf-Tough is also enormously useful if your materials are extremely thick or heavy. To make Perf-Tough, we use a high quality virgin 44# basis-weight paper with great tensile strength, allowing our customers to utilize this sheet in the most extreme cutting situations possible. The 44# sheet allows for exceptionally high ply cuts, and is great in projects requiring heavier fabric cuts. The 44# sheet allows heavy load transition of your layers from table to cutter—and with its superior pull strength, Perf-Tough Kraft Paper will never snap on you.",
+            "Another very popular grade of our Perforated Kraft Papers is our 50# sheet. As with our 40# sheet, we use only the highest quality virgin 50# basis-weight paper, providing your cutter with the least resistance to air flow. The 50# sheet allows for very high ply cuts and is exceptionally useful with heavier fabric cuts. The 50# Kraft sheet allows for a safe and easy transition of your lays from table to cutter, and with its straight and flat properties, your fabrics will lay flat—for the purest, cleanest cut—every time.",
+            "The 40# sheet is Pritchard Paper's most popular Perforated Kraft Paper. To make it, we use only the highest quality virgin 40# basis-weight paper, providing your cutter the least resistance to air flow. The 40# sheet allows for high ply cuts and easy transition from table to cutter. With its straight and flat properties, your fabrics will lay flat—for the purest, cleanest cut—every time.",
+            "Pritchard Paper's Perf-Lite is ideal for low pile cutting only. We use a high quality virgin 25# basis-weight paper to compensate for its tensile strength, allowing our customers to utilize the yield advantage this sheet provides. If you're cutting low ply, Perf-Lite Kraft Paper should be a consideration."
+          ],
+          "features": [
+            {
+              "title": "BASIS WEIGHT",
+              "content": "25#, 30#, 35#, 40#, 50#, 60#, 70#, 80#, 126#",
+              "icon_key": "weight"
+            },
+            {
+              "title": "SIZES",
+              "content": "12\", 18\", 24\", 36\", 48\", 60\", 63\", 66\", 68\", 72\", 74\", 76\",78\", 80\" 82\", 84\", 90\", 92\", 100\", 120\", 126\"",
+              "icon_key": "size"
+            },
+            {
+              "title": "PERFORATION DETAILS",
+              "content": [
+                "3MM/4MM holes",
+                "Available in virgin & recycled kraft",
+                "Staggered hole pattern",
+                "Custom widths and roll lengths available"
+              ],
+              "icon_key": "perforation"
+            },
+            {
+              "title": "CAPABILITIES",
+              "content": ["Allows the most air flow in the industry"],
+              "icon_key": "capabilities"
+            }
+          ]
+        }
+      },
+      "waxed_kraft": {
+        "title": "Plain Waxed Kraft Paper",
+        "card_desc": "Our Plain Waxed Kraft Paper is a staple product for any cutting room. It's wax finish allows for easy, smooth cutting, creating clean lines and edges. The wax finish keeps cutting knives lubricated during the cutting process, boosting efficiency with less work stoppages. Wax papers ensure that your paper does not stick during and after cutting . Our stock sizes are listed below, but custom sizes are available.",
+        "path": "/products/sewn_products/waxed_kraft",
+        "profile": {
+          "main_desc": [
+            "Our Plain Waxed Kraft Paper is a staple product for any cutting room. It's wax finish allows for easy, smooth cutting, creating clean lines and edges. The wax finish keeps cutting knives lubricated during the cutting process, boosting efficiency with less work stoppages. Wax papers ensure that your paper does not stick during and after cutting . Our stock sizes are listed below, but custom sizes are available.",
+            "While our Waxed Kraft Paper is a very versatile product—perfectly suitable for wrapping, fill materials, protective covering, or even as a pattern paper—it is especially useful as a cutting underlay. Our Kraft Paper is an economic and biodegradable material, and can be composed of either virgin or recycled paper content.",
+            "Pritchard Paper's Waxed Kraft Paper is simply the best on the market. Our lay flat Kraft Paper provides the highest performance on any cutting table, and all of our Kraft Papers are converted using mostly virgin Kraft material that will remain straight, strong, and crisp. Lesser-quality recycled Kraft papers are often soft, snap easily, and leave fibre residues on cut fabrics—not so with Pritchard Paper products. Thanks to the superior quality of our Kraft Papers, your cutting operations will be efficient, productive, and will ensure a smile on your cutter's face!"
+          ],
+          "features": [
+            {
+              "title": "BASIS WEIGHT",
+              "content": "44#",
+              "icon_key": "weight"
+            },
+            {
+              "title": "SIZES",
+              "content": "18\", 24\", 30\", 36\", 48\", 60\", 63\", 66\", 72\"",
+              "icon_key": "size"
+            },
+            {
+              "title": "YARDAGE",
+              "content": "50-1000 yds",
+              "icon_key": "yardage"
+            },
+            {
+              "title": "CAPABILITIES",
+              "content": [
+                "Allows the most air flow in the industry",
+                "Anti-fusion cutting paper",
+                "Ideal for keeping cutting papers from sticking together",
+                "Keeps knives lubricated, keeping cutting smooth and clean"
+              ],
+              "icon_key": "capabilities"
+            }
+          ]
+        }
+      },
+      "perforated_waxed_kraft": {
+        "title": "Perforated Waxed Kraft Paper",
+        "card_desc": "Our perforated waxed kraft paper can be used on automated cutting machines across the globe. We stock the highest quality papers in many sizes and patterns, which are available in both virgin and recycled grade papers. Our papers are strong and well-made, allowing for optimal performance and air flow, and ensuring your cutting room operations are efficient. The below information discusses our stock perforated paper sizes and attributes, but custom sizes are available - please call for details!",
+        "path": "/products/sewn_products/perforated_waxed_kraft",
+        "profile": {
+          "main_desc": [
+            "Our perforated waxed kraft paper can be used on automated cutting machines across the globe. We stock the highest quality papers in many sizes and patterns, which are available in both virgin and recycled grade papers. Our papers are strong and well-made, allowing for optimal performance and air flow, and ensuring your cutting room operations are efficient. The below information discusses our stock perforated paper sizes and attributes, but custom sizes are available - please call for details!",
+            "Pritchard Paper’s double-sided Perforated waxed Kraft Papers are converted from the highest quality virgin 44# basis-weight paper. Our 2 Way waxed Perf is primarily used for cutting fabrics that have the potential to fuse while being cut. As your high-speed cutting knives slice through fabrics such as nylon, polyester, or water-resistant materials, the 2 Way waxed Perf provides a lubricant to your knives, which in turn help reduce and eliminate the build-up of heat in your cutter which would otherwise cause these fabrics to melt or fuse together.",
+            "Our Perf-Tough waxed Kraft Paper is ideal for very high pile cutting. Perf-Tough is also enormously useful if your materials are extremely thick or heavy. To make Perf-Tough, we use a high quality virgin 44# basis-weight paper with great tensile strength, allowing our customers to utilize this sheet in the most extreme cutting situations possible. The 44# sheet allows for exceptionally high ply cuts, and is great in projects requiring heavier fabric cuts. The 44# sheet allows heavy load transition of your lays from table to cutter—and with its superior pull strength, Perf-Tough waxed Kraft Paper will never snap on you.",
+            "Another very popular grade of our Perforated waxed Kraft Papers is our 50# sheet. As with our 40# sheet, we use only the highest quality virgin 50# basis-weight paper, providing your cutter with the least resistance to air flow. The 50# sheet allows for very high ply cuts and is exceptionally useful with heavier fabric cuts. The 50# waxed Kraft sheet allows for a safe and easy transition of your lays from table to cutter, and with its straight and flat properties, your fabrics will lay flat—for the purest, cleanest cut—every time.",
+            "The 40# sheet is Pritchard Paper’s most popular Perforated waxed Kraft Paper. To make it, we use only the highest quality virgin 40# basis-weight paper, providing your cutter the least resistance to air flow. The 40# sheet allows for high ply cuts and easy transition from table to cutter. With its straight and flat properties, your fabrics will lay flat—for the purest, cleanest cut—every time.",
+            "Pritchard Paper’s Perf-Lite is ideal for low pile cutting only. We use a high quality virgin 25# basis-weight paper to compensate for its tensile strength, allowing our customers to utilize the yield advantage this sheet provides. If you’re cutting low ply, Perf-Lite waxed Kraft Paper should be a consideration."
+          ],
+          "features": [
+            {
+              "title": "BASIS WEIGHT",
+              "content": "44#",
+              "icon_key": "weight"
+            },
+            {
+              "title": "SIZES",
+              "content": "18\", 24\", 30\", 36\", 48\", 60\", 63\", 66\", 72\"",
+              "icon_key": "size"
+            },
+            {
+              "title": "YARDAGE",
+              "content": "50-600 yds",
+              "icon_key": "yardage"
+            },
+            {
+              "title": "PERFORATION DETAILS",
+              "content": [
+                "3MM/4MM holes",
+                "Available in virgin & recycled kraft",
+                "Staggered hole pattern",
+                "Custom widths and roll lengths available"
+              ],
+              "icon_key": "perforation"
+            },
+            {
+              "title": "CAPABILITIES",
+              "content": [
+                "Allows the most air flow in the industry",
+                "Anti-fusion cutting paper",
+                "Ideal for keeping cutting papers from sticking together",
+                "Keeps knives lubricated, keeping cutting smooth and clean"
+              ],
+              "icon_key": "capabilities"
+            }
+          ]
+        }
+      },
+      "separating_tissue": {
+        "title": "Separating Tissue (High Yield)",
+        "card_desc": "Separating tissue is a lightweight tissue paper used to separate fabrics during the cutting processes. Pritchard Paper offers several high yield tissues, and low yield tissues. Our evenly converted tissues ensure quick spreading and excellent airflow when used on vacuum cutters. While our two tissues are typically pink, we do offer other colours if desired, as a colour contrast between fabric layers can be immensely handy during the cutting process. As with all Pritchard Paper products, our separating tissues come in a variety of colours, widths, lengths, and thicknesses, with custom sizes available upon request.",
+        "path": "/products/sewn_products/separating_tissue",
+        "profile": {
+          "main_desc": [
+            "Separating tissue is a lightweight tissue paper used to separate fabrics during the cutting processes. Pritchard Paper offers several high yield tissues, and low yield tissues. Our evenly converted tissues ensure quick spreading and excellent airflow when used on vacuum cutters. While our two tissues are typically pink, we do offer other colours if desired, as a colour contrast between fabric layers can be immensely handy during the cutting process. As with all Pritchard Paper products, our separating tissues come in a variety of colours, widths, lengths, and thicknesses, with custom sizes available upon request."
+          ],
+          "features": [
+            {
+              "title": "COLOURS",
+              "content": "Pink, White, Yellow, Green, Blue",
+              "icon_key": "color"
+            },
+            {
+              "title": "BASIS WEIGHT",
+              "content": "25# - 27#",
+              "icon_key": "weight"
+            },
+            {
+              "title": "WIDTH",
+              "content": "12\", 18\", 24\", 30\", 33\", 36\", 48\", 60\", 66\", 72\"",
+              "icon_key": "width"
+            },
+            {
+              "title": "YARDAGE",
+              "content": "200 yards - 800 yards",
+              "icon_key": "yardage"
+            }
+          ]
+        }
+      },
+      "manilla_pattern_paper": {
+        "title": "Manilla Pattern Paper",
+        "card_desc": "Our Manilla pattern paper allows for easy cutting in any sewn products cutting room. Our rolls lay flat, are durable with an incredibly smooth finish & clean cut edges.",
+        "path": "/products/sewn_products/manilla_pattern_paper",
+        "profile": {
+          "main_desc": [
+            "Our Manilla pattern paper allows for easy cutting in any sewn products cutting room. Our rolls lay flat, are durable with an incredibly smooth finish & clean cut edges.",
+            "Manilla is a very popular grade of Pattern Paper. Because this paper is used to design patterns, our Manilla is thicker, heavier, and smoother than the average office file folder that the term “Manilla” may recall. It is available in a natural shade of light yellow.",
+            "Pritchard Paper's Manilla Pattern Paper is available in three basis-weights and various widths: The sewn products industry refers to these different thicknesses as either 2X, 3X, or 4X, and their basis-weights range from 150#, 175#, and 200#.",
+            "All of our Manilla Pattern Papers are manufactured at the highest quality paper mills in North America. Smooth and silky to the touch, our Manilla Pattern Papers are used by the greatest designers in the world. A great choice!"
+          ],
+          "features": [
+            {
+              "title": "ROLL SIZES",
+              "content": "24\", 36\", 40\", 48\", 57\", 60\", 72\"",
+              "icon_key": "size"
+            },
+            {
+              "title": "DIAMETER",
+              "content": "6\", 9\", 12\", 14\", 16\", 18\"",
+              "icon_key": "diameter"
+            },
+            {
+              "title": "THICKNESSES",
+              "content": "2X-10pt, 3X-14pt, 4X -18pt",
+              "icon_key": "thickness"
+            },
+            {
+              "title": "COLOURS",
+              "content": "Manilla",
+              "icon_key": "color"
+            }
+          ]
+        }
+      },
+      "marking_paper": {
+        "title": "Marking Paper (Accudot)",
+        "card_desc": "Our full line of Accudot & Accudot Lite marking papers are used in cutting and design rooms throughout the world. Our sturdy 30# and 35# marking papers allow for multiple uses.",
+        "path": "/products/sewn_products/marking_paper",
+        "profile": {
+          "main_desc": [
+            "Our full line of Accudot & Accudot Lite marking papers are used in cutting and design rooms throughout the world. Our sturdy 30# and 35# marking papers allow for multiple uses.",
+            "When your design room requires an alphanumeric dotted marking paper, Pritchard Paper's lay flat, virgin white bond, high contrast printed dotted marking papers will do the trick. All of our dotted marking papers are tested for high print clarity, and are all protected in individual cartons. Because our blue print marking paper is so transparent, it can also be used for copying if placed over a pattern."
+          ],
+          "sub_texts": [
+            {
+              "title": "Individually Boxed",
+              "content": "Due to the delicate nature of this product, each roll is individually wrapped. Your rolls will arrive protected, clean, and most importantly, undamaged every time. Our roll guards are made entirely from recycled materials, giving us an environmental advantage that eliminates the need for unnecessary cartons."
+            }
+          ],
+          "features": [
+            {
+              "title": "WEIGHT",
+              "content": "35#",
+              "icon_key": "weight"
+            },
+            {
+              "title": "SIZES",
+              "content": "30\", 36\", 45\", 48\", 54\", 60\", 63\", 66\", 72\"",
+              "icon_key": "size"
+            },
+            {
+              "title": "ATTRIBUTES",
+              "content": [
+                "Traceable with glossy finish",
+                "Ideal for Blueline Marker copying",
+                "Alpha-Numeric design with + marks every two inches",
+                "1/4 yard edge marks"
+              ],
+              "icon_key": "attribute"
+            }
+          ]
+        }
+      },
+      "polysheeting_overlay": {
+        "title": "Poly Sheeting Overlay",
+        "card_desc": "Polyoverlay / Poly Sheeting is a durable plastic sheet rolled on a core and used on automated cutting equipment in many industries, including automotive interiors, furniture, apparel, upholstery, and many other sewn products industries. Our line of Poly Sheeting is offered in both High-Density and Low-Density films and available in a variety of stock widths and gauges. Custom sizes and gauges are available upon request.",
+        "path": "/products/sewn_products/polysheeting_overlay",
+        "profile": {
+          "main_desc": [
+            "Polyoverlay / Poly Sheeting is a durable plastic sheet rolled on a core and used on automated cutting equipment in many industries, including automotive interiors, furniture, apparel, upholstery, and many other sewn products industries. Our line of Poly Sheeting is offered in both High-Density and Low-Density films and available in a variety of stock widths and gauges. Custom sizes and gauges are available upon request.",
+            "Pritchard Paper's Poly Sheeting is used as an overlay on top of your fabric to create the vacuum needed on all computer-automated cutting machines. While our HD Poly Sheeting comes in many widths and thicknesses, its High Density primarily allows for down-gauging, which provides a major economic benefit to our customers.",
+            "Our standard rolls weigh 100lbs, and are used on Morgan Technica, Lectra, Gerber, Investronica, Tukatech, Eastman, Cutting Edge, and other computer-automated cutting machine systems. Pritchard Paper is proud to supply HD Poly Sheeting to many computer-aided manufacturing industries, including companies working in the automotive, upholstery, apparel, furniture, luggage, nautical, and health industries."
+          ],
+          "features": [
+            {
+              "title": "STOCK WIDTHS",
+              "content": "60\", 68\", 72\", 76\", 78\", 82\", 84\", 88\", 90\", 96\"",
+              "sub_content": "100\"-142\" - available upon request. Custom sizes available.",
+              "icon_key": "width"
+            },
+            {
+              "title": "DENSITY",
+              "content": "High-density & Low-density blends",
+              "icon_key": "density"
+            },
+            {
+              "title": "GAUGES",
+              "content": "3/4 mil, 1.0 mil, 1.2 mil, 1.5 mil, 1.75 mil, 2.0 mil.",
+              "sub_content": "All other gauges available & widths available on request.",
+              "icon_key": "gauge"
+            },
+            {
+              "title": "COLOUR",
+              "content": "Clear or Tinted",
+              "icon_key": "color"
+            }
+          ]
+        }
+      }
+    }
+  },
+  "dye_sublimation": {
+    "title": "Dye Sublimation",
+    "products": {
+      "jet_protect_tissue": {
+        "title": "Jet Protect Tissue",
+        "card_desc": "PPP converts a full line of our Jet-Protect dye sublimation protection tissue as wide as 5M/197″. Also known in the industry as sublimation tissue, protection tissue, transfer tissue, blotter tissue, ghosting and/or protection paper, Jet-Protect is used for belt protection of rotary heat presses. Jet-Protect tissue is capable of withstanding heavy ink loads while protecting against ghosting and prolonging the life of your heat press belts.",
+        "path": "/products/dye_sublimation/jet_protect_tissue",
+        "gsm": [19, 25, 26, 28, 30],
+        "manufacturer": "ahlstrom",
+        "endUse": [],
+        "prodType": [],
+        "pop": 1,
+        "profile": {
+          "main_desc": [
+            "PPP converts a full line of our Jet-Protect dye sublimation protection tissue as wide as 5M/197″. Also known in the industry as sublimation tissue, protection tissue, transfer tissue, blotter tissue, ghosting and/or protection paper, Jet-Protect is used for belt protection of rotary heat presses. Jet-Protect tissue is capable of withstanding heavy ink loads while protecting against ghosting and prolonging the life of your heat press belts.",
+            "At Pritchard Paper, we convert all of our own dye sublimation tissue—a product also known as transfer tissue. Acting as the protection layer or carrier sheet, sublimation tissue is a durable, lightweight sheet used in sublimation printing that protects ink transfer between your transfer paper and your machine belts."
+          ],
+          "features": [
+            {
+              "title": "GRAMMAGE",
+              "content": "19g/m², 25g/m², 26g/m², 28g/m², 30g/m²",
+              "icon_key": "grammage"
+            },
+            {
+              "title": "INK COVERAGE",
+              "content": "2.5/4",
+              "icon_key": "ink_coverage"
+            },
+            {
+              "title": "TRANSFER YIELD",
+              "content": "4/4",
+              "icon_key": "transfer_yield"
+            },
+            {
+              "title": "DRY SPEED",
+              "content": "2/4",
+              "icon_key": "dry_speed"
+            },
+            {
+              "title": "WIDTH",
+              "content": "4\" - 197\"",
+              "icon_key": "width"
+            },
+            {
+              "title": "DIAMETER",
+              "content": "4\" - 20\"",
+              "icon_key": "diameter"
+            },
+            {
+              "title": "PERFORMANCE",
+              "content": [
+                "Protects against gassing and/or ghosting & extends the life of your heat press belts.",
+                "Prevents contamination & discolouring during the transfer process while blocking ink penetration.",
+                "Compatible with Monti Antonio, Klieverik, Royal Sovereign, AIT, Digiheat, Eastman & all other heat presses."
+              ],
+              "icon_key": "attribute"
+            }
+          ]
+        }
+      },
+      "transjet_boost": {
+        "title": "Transjet Boost",
+        "card_desc": "A coated sublimation paper for digital transfer printing with water-based dye sub inks. Designed for transfer to various polyester-based materials.",
+        "path": "/products/dye_sublimation/transjet_boost",
+        "gsm": [70, 85, 130],
+        "manufacturer": "sappi",
+        "endUse": [
+          "fashion",
+          "home furnishing",
+          "sportswear",
+          "signage",
+          "hard substrates"
+        ],
+        "prodType": ["uncalendered"],
+        "pop": 6,
+        "profile": {
+          "main_desc": [
+            "A coated sublimation paper for digital transfer printing with water-based dye sub inks. Designed for transfer to various polyester-based materials."
+          ],
+          "features": [
+            {
+              "title": "SURFACE",
+              "content": "Uncalendered",
+              "icon_key": "surface"
+            },
+            {
+              "title": "FORMAT",
+              "content": "Reel",
+              "icon_key": "format"
+            },
+            {
+              "title": "PRINT PROCESS",
+              "content": "Digital Printing, Digital Printing - Inkjet",
+              "icon_key": "print_process"
+            },
+            {
+              "title": "CONVERSION PROCESS",
+              "content": "Water-based dye sub inks",
+              "icon_key": "conversion_process"
+            },
+            {
+              "title": "PRODUCT TYPE",
+              "content": "Dye Sublimation Papers, Transjet",
+              "icon_key": "product_type"
+            },
+            {
+              "title": "CERTIFICATES",
+              "content": "FSC™ (FSC™ C015022), PEFC (PEFC/07-32-76)",
+              "icon_key": "certificate"
+            },
+            {
+              "title": "GRAMMAGE",
+              "content": "70g/m², 85g/m², 130g/m²",
+              "icon_key": "grammage"
+            }
+          ]
+        }
+      },
+      "transjet_drive": {
+        "title": "Transjet Drive",
+        "card_desc": "A coated sublimation paper for digital transfer printing with water-based dye sub inks. Designed for transfer to various polyester-based materials.",
+        "path": "/products/dye_sublimation/transjet_drive",
+        "gsm": [45, 55],
+        "manufacturer": "sappi",
+        "endUse": ["fashion", "home furnishing", "signage"],
+        "prodType": ["uncalendered", "coated"],
+        "pop": 15,
+        "profile": {
+          "main_desc": [
+            "A coated sublimation paper for digital transfer printing with water-based dye sub inks. Designed for transfer to various polyester-based materials."
+          ],
+          "features": [
+            {
+              "title": "SURFACE",
+              "content": "Uncalendered, Coated",
+              "icon_key": "surface"
+            },
+            {
+              "title": "FORMAT",
+              "content": "Reel",
+              "icon_key": "format"
+            },
+            {
+              "title": "PRINT PROCESS",
+              "content": "Digital Printing, Digital Printing - Inkjet",
+              "icon_key": "print_process"
+            },
+            {
+              "title": "CONVERSION PROCESS",
+              "content": "Water-based dye sub inks",
+              "icon_key": "conversion_process"
+            },
+            {
+              "title": "PRODUCT TYPE",
+              "content": "Dye Sublimation Papers, Transjet",
+              "icon_key": "product_type"
+            },
+            {
+              "title": "CERTIFICATES",
+              "content": "FSC™ (FSC™ C015022), PEFC (PEFC/07-32-76)",
+              "icon_key": "certificate"
+            },
+            {
+              "title": "GRAMMAGE",
+              "content": "45g/m², 55g/m²",
+              "icon_key": "grammage"
+            }
+          ]
+        }
+      },
+      "transjet_eco": {
+        "title": "Transjet Eco II",
+        "card_desc": "A classic performer. Eco II is a coated sublimation paper for digital transfer printing with water-based dye sub inks. It has been designed for non-industrial printers and transfer to various polyester-based materials. With its different grammages, Eco II can be used for a wide range of projects which makes it an all arounder.",
+        "path": "/products/dye_sublimation/transjet_eco",
+        "gsm": [68, 95],
+        "manufacturer": "sappi",
+        "endUse": [
+          "fashion",
+          "home furnishing",
+          "sportswear",
+          "signage",
+          "hard substrates"
+        ],
+        "prodType": ["uncalendered"],
+        "pop": 4,
+        "profile": {
+          "main_desc": [
+            "A classic performer. Eco II is a coated sublimation paper for digital transfer printing with water-based dye sub inks. It has been designed for non-industrial printers and transfer to various polyester-based materials. With its different grammages, Eco II can be used for a wide range of projects which makes it an all arounder."
+          ],
+          "features": [
+            {
+              "title": "SURFACE",
+              "content": "Uncalendered",
+              "icon_key": "surface"
+            },
+            {
+              "title": "FORMAT",
+              "content": "Reel",
+              "icon_key": "format"
+            },
+            {
+              "title": "PRINT PROCESS",
+              "content": "Digital , Digital Printing - Inkjet",
+              "icon_key": "print_process"
+            },
+            {
+              "title": "CONVERSION PROCESS",
+              "content": "Water-based dye sub inks",
+              "icon_key": "conversion_process"
+            },
+            {
+              "title": "PRODUCT TYPE",
+              "content": "Dye Sublimation Papers, Transjet",
+              "icon_key": "product_type"
+            },
+            {
+              "title": "CERTIFICATES",
+              "content": "FSC™ (FSC™ C015022), PEFC (PEFC/07-32-76)",
+              "icon_key": "certificate"
+            },
+            {
+              "title": "GRAMMAGE",
+              "content": "68g/m², 95g/m²",
+              "icon_key": "grammage"
+            }
+          ]
+        }
+      },
+      "transjet_industrial": {
+        "title": "Transjet Industrial",
+        "card_desc": "A coated sublimation paper for digital transfer printing with water-based dye sub inks. Designed for transfer to various polyester-based materials.",
+        "path": "/products/dye_sublimation/transjet_industrial",
+        "gsm": [60, 100],
+        "manufacturer": "sappi",
+        "endUse": ["fashion", "home furnishing", "signage"],
+        "prodType": ["uncalendered", "coated"],
+        "pop": 9,
+        "profile": {
+          "main_desc": [
+            "A coated sublimation paper for digital transfer printing with water-based dye sub inks. Designed for transfer to various polyester-based materials."
+          ],
+          "features": [
+            {
+              "title": "SURFACE",
+              "content": "Uncalendered, Coated",
+              "icon_key": "surface"
+            },
+            {
+              "title": "FORMAT",
+              "content": "Reel",
+              "icon_key": "format"
+            },
+            {
+              "title": "PRINT PROCESS",
+              "content": "Digital Printing , Digital Printing - Inkjet",
+              "icon_key": "print_process"
+            },
+            {
+              "title": "CONVERSION PROCESS",
+              "content": "Water-based dye sub inks",
+              "icon_key": "conversion_process"
+            },
+            {
+              "title": "PRODUCT TYPE",
+              "content": "Dye Sublimation Papers, Transjet",
+              "icon_key": "product_type"
+            },
+            {
+              "title": "CERTIFICATES",
+              "content": "FSC™ (FSC™ C015022), PEFC (PEFC/07-32-76)",
+              "icon_key": "certificate"
+            },
+            {
+              "title": "GRAMMAGE",
+              "content": "60g/m², 100g/m²",
+              "icon_key": "grammage"
+            }
+          ]
+        }
+      },
+      "transjet_sportsline": {
+        "title": "Transjet Sportsline - Tack",
+        "card_desc": "The perfect player for stretchy textiles. Transjet Sportsline is a thermal adhesive coated sublimation paper for digital transfer printing with water based dye sub inks. Designed for non-industrial printers and transfer to very stretchy polyester-based materials such as sportswear or elastic home textiles.",
+        "path": "/products/dye_sublimation/transjet_sportsline",
+        "gsm": [90, 100],
+        "manufacturer": "sappi",
+        "endUse": ["home furnishing", "sportswear"],
+        "prodType": ["uncalendered", "coated"],
+        "pop": 3,
+        "profile": {
+          "main_desc": [
+            "The perfect player for stretchy textiles. Transjet Sportsline is a thermal adhesive coated sublimation paper for digital transfer printing with water based dye sub inks. Designed for non-industrial printers and transfer to very stretchy polyester-based materials such as sportswear or elastic home textiles."
+          ],
+          "features": [
+            {
+              "title": "SURFACE",
+              "content": "Uncalendered, Coated",
+              "icon_key": "surface"
+            },
+            {
+              "title": "FORMAT",
+              "content": "Reel",
+              "icon_key": "format"
+            },
+            {
+              "title": "PRINT PROCESS",
+              "content": "Digital , Digital Printing - Inkjet",
+              "icon_key": "print_process"
+            },
+            {
+              "title": "CONVERSION PROCESS",
+              "content": "Water-based dye sub inks",
+              "icon_key": "conversion_process"
+            },
+            {
+              "title": "PRODUCT TYPE",
+              "content": "Dye Sublimation Papers, Transjet",
+              "icon_key": "product_type"
+            },
+            {
+              "title": "CERTIFICATES",
+              "content": "FSC™ (FSC™ C015022), PEFC (PEFC/07-32-76)",
+              "icon_key": "certificate"
+            },
+            {
+              "title": "GRAMMAGE",
+              "content": "90g/m², 100g/m²",
+              "icon_key": "grammage"
+            }
+          ]
+        }
+      },
+      "transjet_sportsline_ht": {
+        "title": "Transjet Sportsline Hi-Tack",
+        "card_desc": "Are you looking for an advanced reversible adhesive effect for very stretchy textiles? Transjet Sportsline Hi-Tack is an enhanced thermal adhesive coated sublimation paper for digital transfer printing with water-based dye sub inks. It is designed for non-industrial printers and transfer onto very stretchy polyester-based textiles such as sportswear or very elastic home textiles.",
+        "path": "/products/dye_sublimation/transjet_sportsline_ht",
+        "gsm": [90, 100],
+        "manufacturer": "sappi",
+        "endUse": ["home furnishing", "sportswear"],
+        "prodType": ["uncalendered", "coated"],
+        "pop": 17,
+        "profile": {
+          "main_desc": [
+            "Are you looking for an advanced reversible adhesive effect for very stretchy textiles? Transjet Sportsline Hi-Tack is an enhanced thermal adhesive coated sublimation paper for digital transfer printing with water-based dye sub inks. It is designed for non-industrial printers and transfer onto very stretchy polyester-based textiles such as sportswear or very elastic home textiles."
+          ],
+          "features": [
+            {
+              "title": "SURFACE",
+              "content": "Uncalendered, Coated",
+              "icon_key": "surface"
+            },
+            {
+              "title": "FORMAT",
+              "content": "Reel",
+              "icon_key": "format"
+            },
+            {
+              "title": "PRINT PROCESS",
+              "content": "Digital , Digital Printing - Inkjet",
+              "icon_key": "print_process"
+            },
+            {
+              "title": "CONVERSION PROCESS",
+              "content": "Water-based dye sub inks",
+              "icon_key": "conversion_process"
+            },
+            {
+              "title": "PRODUCT TYPE",
+              "content": "Dye Sublimation Papers, Transjet",
+              "icon_key": "product_type"
+            },
+            {
+              "title": "CERTIFICATES",
+              "content": "FSC™ (FSC™ C015022), PEFC (PEFC/07-32-76)",
+              "icon_key": "certificate"
+            },
+            {
+              "title": "GRAMMAGE",
+              "content": "90g/m², 100g/m²",
+              "icon_key": "grammage"
+            }
+          ]
+        }
+      },
+      "jetcol_extreme": {
+        "title": "Jetcol Xtreme (aka HTR 1000)",
+        "card_desc": "With just 66 gsm, Jetcol® HTR1000 is the lightest paper grade in the Jetcol® Original family. This paper is designed for the faster plotters, with water based sublimation inks most often used by the fashion industry. Our Jetcol® HTR1000 paper can handle an ink coverage of up to 240%.",
+        "path": "/products/dye_sublimation/jetcol_extreme",
+        "gsm": [66],
+        "manufacturer": "coldenhove",
+        "endUse": ["fashion", "home furnishing", "signage"],
+        "prodType": [],
+        "pop": 5,
+        "profile": {
+          "main_desc": [
+            "With just 66 gsm, Jetcol® HTR1000 is the lightest paper grade in the Jetcol® Original family. This paper is designed for the faster plotters, with water based sublimation inks most often used by the fashion industry. Our Jetcol® HTR1000 paper can handle an ink coverage of up to 240%."
+          ],
+          "features": [
+            {
+              "title": "GRAMMAGE",
+              "content": "66g/m²",
+              "icon_key": "grammage"
+            },
+            {
+              "title": "INK COVERAGE",
+              "content": "4/5",
+              "icon_key": "ink_coverage"
+            },
+            {
+              "title": "TRANSFER YIELD",
+              "content": "4/5",
+              "icon_key": "transfer_yield"
+            },
+            {
+              "title": "DRY SPEED",
+              "content": "3.5/5",
+              "icon_key": "dry_speed"
+            }
+          ]
+        }
+      },
+      "jetcol_htr3500": {
+        "title": "Jetcol HTR 3500",
+        "card_desc": "Jetcol® HTR3500 was developed to solve a quality challenge which occurs quite often in the dye sublimation industry, called “rivering”. Other industry names include “arching” and “treeing”.",
+        "path": "/products/dye_sublimation/jetcol_htr3500",
+        "gsm": [105],
+        "manufacturer": "coldenhove",
+        "endUse": ["home furnishing", "signage"],
+        "prodType": [],
+        "pop": 2,
+        "profile": {
+          "main_desc": [
+            "Jetcol® HTR3500 was developed to solve a quality challenge which occurs quite often in the dye sublimation industry, called “rivering”. Other industry names include “arching” and “treeing”.",
+            "Rivering takes place when the gasses that build up during the sublimation process seep out to the edges of the textile. Jetcol® HTR3500 paper was designed with a special coating that prevents gas build up between the paper and the textile. The result is a very sharp image. OurJetcol® HTR3500 paper has a base weight of 105 gsm, and reduces rivering waste up to 99%. Of course, the Jetcol® HTR3500 also has a high transfer yield, which makes all Jetcol® grades stand out."
+          ],
+          "features": [
+            {
+              "title": "GRAMMAGE",
+              "content": "105g/m²",
+              "icon_key": "grammage"
+            },
+            {
+              "title": "INK COVERAGE",
+              "content": "2.5/4",
+              "icon_key": "ink_coverage"
+            },
+            {
+              "title": "TRANSFER YIELD",
+              "content": "2/4",
+              "icon_key": "transfer_yield"
+            },
+            {
+              "title": "DRY SPEED",
+              "content": "3/4",
+              "icon_key": "dry_speed"
+            }
+          ]
+        }
+      },
+      "jetcol_htr4000": {
+        "title": "Jetcol HTR 4000",
+        "card_desc": "Jetcol® HTR4000 is the best paper in the world from a stability and runnability standpoint. The Jetcol® HTR4000 paper is a laminated, 140 gsm paper that will stay flat under any print conditions and ink quantity. Jetcol® HTR4000 has a fast-dry coating and will never let you down.",
+        "path": "/products/dye_sublimation/jetcol_htr4000",
+        "gsm": [140],
+        "manufacturer": "coldenhove",
+        "endUse": ["sportswear", "hard substrates"],
+        "prodType": [],
+        "pop": 12,
+        "profile": {
+          "main_desc": [
+            "Jetcol® HTR4000 is the best paper in the world from a stability and runnability standpoint. The Jetcol® HTR4000 paper is a laminated, 140 gsm paper that will stay flat under any print conditions and ink quantity. Jetcol® HTR4000 has a fast-dry coating and will never let you down."
+          ],
+          "features": [
+            {
+              "title": "GRAMMAGE",
+              "content": "140g/m²",
+              "icon_key": "grammage"
+            },
+            {
+              "title": "INK COVERAGE",
+              "content": "4/4",
+              "icon_key": "ink_coverage"
+            },
+            {
+              "title": "TRANSFER YIELD",
+              "content": "4/4",
+              "icon_key": "transfer_yield"
+            },
+            {
+              "title": "DRY SPEED",
+              "content": "4/4",
+              "icon_key": "dry_speed"
+            }
+          ]
+        }
+      },
+      "jet_x": {
+        "title": "Jet-X",
+        "card_desc": "Many customers have plotters but also an industrial printer with a slightly different type of ink which would require a different type of sublimation coating. Our Jet-X® paper is designed to work optimal with all different types of water based sublimation inks, irrespective of the glycol content. The base structure of the paper and the unique coating guarantee the brightest colours.",
+        "path": "/products/dye_sublimation/jet_x",
+        "gsm": [57],
+        "manufacturer": "coldenhove",
+        "endUse": ["fashion", "home furnishing"],
+        "prodType": [],
+        "pop": 10,
+        "profile": {
+          "main_desc": [
+            "Many customers have plotters but also an industrial printer with a slightly different type of ink which would require a different type of sublimation coating. Our Jet-X® paper is designed to work optimal with all different types of water based sublimation inks, irrespective of the glycol content. The base structure of the paper and the unique coating guarantee the brightest colours.",
+            "With a base weight of only 57 g/m2 Jet-X® still offers high stability and is able to handle high ink quantities. On top of that it will run smooth on any printer or calender. It comes in rolls with many linear meters so that the number of stops during production is minimized."
+          ],
+          "features": [
+            {
+              "title": "GRAMMAGE",
+              "content": "57g/m²",
+              "icon_key": "grammage"
+            },
+            {
+              "title": "INK COVERAGE",
+              "content": "2.5/4",
+              "icon_key": "ink_coverage"
+            },
+            {
+              "title": "TRANSFER YIELD",
+              "content": "4/4",
+              "icon_key": "transfer_yield"
+            },
+            {
+              "title": "DRY SPEED",
+              "content": "2/4",
+              "icon_key": "dry_speed"
+            }
+          ]
+        }
+      },
+      "jetcol_ta": {
+        "title": "Jetcol TA",
+        "card_desc": "Jetcol® Thermal Adhesive (TA) is a specially coated paper grade which makes the paper stick firmly to the textile during the sublimation process – without leaving a sticky residue on the textile.",
+        "path": "/products/dye_sublimation/jetcol_ta",
+        "gsm": [85, 105],
+        "manufacturer": "coldenhove",
+        "endUse": ["sportswear"],
+        "prodType": [],
+        "pop": 18,
+        "profile": {
+          "main_desc": [
+            "Jetcol® Thermal Adhesive (TA) is a specially coated paper grade which makes the paper stick firmly to the textile during the sublimation process – without leaving a sticky residue on the textile.",
+            "When the textile and paper adhere throughout the process, the end result is extremely sharp imaging without any bleeding of colours. Jetcol® TA can be used on the traditional plotters but also on today’s fast printers. Our Jetcol® TA paper has a weight of 85 or 105 gsm and the highly appreciated Jetcol® characteristics, like a high transfer yield and bright colours."
+          ],
+          "features": [
+            {
+              "title": "GRAMMAGE",
+              "content": "85g/m², 105g/m²",
+              "icon_key": "grammage"
+            },
+            {
+              "title": "INK COVERAGE",
+              "content": "3/4",
+              "icon_key": "ink_coverage"
+            },
+            {
+              "title": "TRANSFER YIELD",
+              "content": "3/4",
+              "icon_key": "transfer_yield"
+            },
+            {
+              "title": "DRY SPEED",
+              "content": "1/4",
+              "icon_key": "dry_speed"
+            },
+            {
+              "title": "ADHESIVE FORCE",
+              "content": "3/4",
+              "icon_key": "adhesive_force"
+            }
+          ]
+        }
+      },
+      "jetcol_high_speed": {
+        "title": "Jetcol High Speed",
+        "card_desc": "Jetcol® High Speed is a real Coldenhove specialty. Our sublimation transfer paper has a weight of 95 gsm and combines a fast drying time of the ink with an exceptional high transfer yield, due to its unique coating. Our Jetcol® High Speed paper is often used on the fast printers. Best of all, no additional external dryers are needed for the paper.",
+        "path": "/products/dye_sublimation/jetcol_high_speed",
+        "gsm": [95],
+        "manufacturer": "coldenhove",
+        "endUse": [
+          "home furnishing",
+          "sportswear",
+          "signage",
+          "hard substrates"
+        ],
+        "prodType": [],
+        "pop": 11,
+        "profile": {
+          "main_desc": [
+            "Jetcol® High Speed is a real Coldenhove specialty. Our sublimation transfer paper has a weight of 95 gsm and combines a fast drying time of the ink with an exceptional high transfer yield, due to its unique coating. Our Jetcol® High Speed paper is often used on the fast printers. Best of all, no additional external dryers are needed for the paper."
+          ],
+          "features": [
+            {
+              "title": "GRAMMAGE",
+              "content": "95g/m²",
+              "icon_key": "grammage"
+            },
+            {
+              "title": "INK COVERAGE",
+              "content": "2.5/4",
+              "icon_key": "ink_coverage"
+            },
+            {
+              "title": "TRANSFER YIELD",
+              "content": "3.5/4",
+              "icon_key": "transfer_yield"
+            },
+            {
+              "title": "DRY SPEED",
+              "content": "4/4",
+              "icon_key": "dry_speed"
+            }
+          ]
+        }
+      },
+      "jetcol_xtreme_sports": {
+        "title": "Jetcol Xtreme Sports",
+        "card_desc": "Even in today's world, we see the sportswear market continuously developing. Dye sublimation is claiming an important place in the digital printing landscape of this market, and the demand for sublimated textiles is increasing. Enter Xtreme® Sports!",
+        "path": "/products/dye_sublimation/jetcol_xtreme_sports",
+        "gsm": [100],
+        "manufacturer": "coldenhove",
+        "endUse": ["sportswear"],
+        "prodType": [],
+        "pop": 7,
+        "profile": {
+          "main_desc": [
+            "Even in today's world, we see the sportswear market continuously developing. Dye sublimation is claiming an important place in the digital printing landscape of this market, and the demand for sublimated textiles is increasing. Enter Xtreme® Sports!",
+            "To meet the growing demand, print companies are looking for opportunities to ramp up the output of their printing facility. This results in a market in which fast, industrial printers are becoming increasingly important.",
+            "But to maximise output, the choice of the right paper also plays a significant role. Properties such as drying speed and inkload determine how successful you are as a printing company in optimising your production process.",
+            "With Xtreme® Sports, Coldenhove brings a 100 gsm paper to the market that facilitates super fast drying. Creasing and rivering become a thing of the past, the transfer time is significantly reduced and high ink loads can be used."
+          ],
+          "features": [
+            {
+              "title": "GRAMMAGE",
+              "content": "100g/m²",
+              "icon_key": "grammage"
+            },
+            {
+              "title": "INK COVERAGE",
+              "content": "5/5",
+              "icon_key": "ink_coverage"
+            },
+            {
+              "title": "TRANSFER YIELD",
+              "content": "4.5/5",
+              "icon_key": "transfer_yield"
+            },
+            {
+              "title": "DRY SPEED",
+              "content": "5/5",
+              "icon_key": "dry_speed"
+            }
+          ]
+        }
+      },
+      "jetcol_xtreme_dry": {
+        "title": "Jetcol Xtreme Dry",
+        "card_desc": "With Xtreme® Dry, Coldenhove creates possibilities for a new market. This sublimation paper is specially designed for high-production printers that are used in signage industry, for example. Xtreme® Dry has a weight of 70 gsm and because Xtreme® Dry is equipped with our latest coating technology that forms a porous structure, this paper can achieve an extremely high ink drying speed while maintaining its core property – a high transfer yield. As Xtreme® Dry will be available in rolls of up to 3.2 metres in width, it will be highly suitable for the soft signage market.",
+        "path": "/products/dye_sublimation/jetcol_xtreme_dry",
+        "gsm": [70],
+        "manufacturer": "coldenhove",
+        "endUse": ["home furnishing", "sportswear", "signage"],
+        "prodType": [],
+        "pop": 8,
+        "profile": {
+          "main_desc": [
+            "With Xtreme® Dry, Coldenhove creates possibilities for a new market. This sublimation paper is specially designed for high-production printers that are used in signage industry, for example. Xtreme® Dry has a weight of 70 gsm and because Xtreme® Dry is equipped with our latest coating technology that forms a porous structure, this paper can achieve an extremely high ink drying speed while maintaining its core property – a high transfer yield. As Xtreme® Dry will be available in rolls of up to 3.2 metres in width, it will be highly suitable for the soft signage market."
+          ],
+          "features": [
+            {
+              "title": "GRAMMAGE",
+              "content": "70g/m²",
+              "icon_key": "grammage"
+            },
+            {
+              "title": "INK COVERAGE",
+              "content": "3.5/4",
+              "icon_key": "ink_coverage"
+            },
+            {
+              "title": "TRANSFER YIELD",
+              "content": "3.5/4",
+              "icon_key": "transfer_yield"
+            },
+            {
+              "title": "DRY SPEED",
+              "content": "4/4",
+              "icon_key": "dry_speed"
+            }
+          ]
+        }
+      },
+      "jetcol_dhs": {
+        "title": "Jetcol DHS",
+        "card_desc": "For the hard substrates market, this new sublimation paper provides many more benefits. JETCOL® DHS is equipped with a coating that keeps the ink on the surface of the paper, which leads to a reduction of transfer time.",
+        "path": "/products/dye_sublimation/jetcol_dhs",
+        "gsm": [120],
+        "manufacturer": "coldenhove",
+        "endUse": ["hard substrates"],
+        "prodType": [],
+        "pop": 13,
+        "profile": {
+          "main_desc": [
+            "For the hard substrates market, this new sublimation paper provides many more benefits. JETCOL® DHS is equipped with a coating that keeps the ink on the surface of the paper, which leads to a reduction of transfer time.",
+            "JETCOL® DHS make it easier than ever before to image professional digital photography on hard surfaces with impressive photo quality.",
+            "In order to get the best results out of the paper, Coldenhove will support ICC profiling for the best results.",
+            "Furthermore, the back of the paper is printed with a grid pattern, making it easier to determine which side of the paper needs to be placed on the substrate for proper transfer and for alignment of the image.",
+            "JETCOL® DHS will be available in the most popular sheet and roll sizes from select distributors that specialize in hard surface dye sublimation products."
+          ],
+          "features": [
+            {
+              "title": "GRAMMAGE",
+              "content": "120g/m²",
+              "icon_key": "grammage"
+            },
+            {
+              "title": "INK COVERAGE",
+              "content": "3.5/4",
+              "icon_key": "ink_coverage"
+            },
+            {
+              "title": "TRANSFER YIELD",
+              "content": "4/4",
+              "icon_key": "transfer_yield"
+            },
+            {
+              "title": "DRY SPEED",
+              "content": "2.5/4",
+              "icon_key": "dry_speed"
+            }
+          ]
+        }
+      },
+      "texcol": {
+        "title": "Texcol",
+        "card_desc": "Texcol® is a digital pigment transfer paper. Its special properties make it highly resistant to crocking and helps to retain its colour fastness when exposed to light. Excellent for use on textiles in the home furnishing segment, Texcol® is especially recommended for applications on sturdier textiles.",
+        "path": "/products/dye_sublimation/texcol",
+        "gsm": [110],
+        "manufacturer": "coldenhove",
+        "endUse": ["home furnishing"],
+        "prodType": [],
+        "pop": 14,
+        "profile": {
+          "main_desc": [
+            "Texcol® is a digital pigment transfer paper. Its special properties make it highly resistant to crocking and helps to retain its colour fastness when exposed to light. Excellent for use on textiles in the home furnishing segment, Texcol® is especially recommended for applications on sturdier textiles.",
+            "Think about curtains, decorative pillows and beddings - which require a high degree of durability that used to be difficult to achieve with the sublimation transfer technology. Additionally, Texcol®'s multifunctional coating ensures you ink savings of up to 25%. You get a high colour brilliance that you don't see every day in a finished printing product.",
+            "Texcol® is designed to run on your plotter printers and allows easy transfer with your standard technologies. That means further cost savings for you, as you can use these techniques without making large investments."
+          ],
+          "features": [
+            {
+              "title": "LIGHT FASTNESS",
+              "content": "7/8",
+              "icon_key": "light_fa"
+            },
+            {
+              "title": "WET RUBBING",
+              "content": "4/5",
+              "icon_key": "wet_rub"
+            },
+            {
+              "title": "DRY RUBBING",
+              "content": "5/5",
+              "icon_key": "dry_rub"
+            },
+            {
+              "title": "WASHING",
+              "content": "4/5",
+              "icon_key": "washing"
+            }
+          ]
+        }
+      }
+    }
+  }
+}
